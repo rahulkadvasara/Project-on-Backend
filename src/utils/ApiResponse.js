@@ -5,3 +5,5 @@ class ApiResponse{
         this.message=ststusCode<400
     }
 }
+
+export { ApiResponse }
